@@ -1,4 +1,4 @@
-## Hello!, I am an alchemist🧪!
+## I am a App Trailblazer 😁!
 <div align="center">
   <a href="https://github.com/Nodroid7">
    <img src="https://streak-stats.demolab.com?user=Nodroid7&_border=true&theme=dark&hide_border=true&theme=react" style="width: 95%" />
